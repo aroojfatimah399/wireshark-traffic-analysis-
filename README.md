@@ -121,7 +121,7 @@ The capture displays multiple packets and includes information such as:
 
 ### Screenshot
 
-![Wireshark Network Traffic Capture](screenshots/wireshark-capture.png)
+![Wireshark Network Traffic Capture](wiresharktask.png)
 
 ---
 
@@ -139,10 +139,6 @@ The selected packet showed:
 * **Packet Length:** `1470 bytes`
 
 These details were used to understand how an IP address, port, and packet appear in actual network traffic.
-
-### Screenshot
-
-![Analyzed Packet Details](wiresharktask.png)
 
 ---
 
